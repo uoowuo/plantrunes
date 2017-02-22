@@ -1,4 +1,4 @@
-Task: create a simple writing system to write down agricultural activities & events quickly and easily, assuming a particular setup.
+Task: create a simple writing system to write down kitchen-scale agricultural activities & events quickly and easily.
 
 Requirements:
 - Usable in single color on any paper
@@ -23,6 +23,8 @@ These are 5 easily recognizable possible states for each of: water level, temper
 The 6th rare highest state is represented by a double mark in the 5th position.
 
 At these heights, the following marks are added, according to their values:
+
+---
 
 **/** is water level in the watering bottle:
 
@@ -63,7 +65,7 @@ I assumed differences between temperatures below water freezing point don't matt
 
 Argricultural events are:
 
-- **v** planting; species' initials are written next to the rune
+- **v** planting; species' initials are written next to the symbol
 - **Λ** germination
 - **∇** flowering
 - **Δ** fruit
