@@ -63,7 +63,7 @@ I assumed differences between temperatures below water freezing point don't matt
 
 ---
 
-Argricultural events are:
+Agricultural events are:
 
 - **v** planting; species' initials are written next to the symbol
 - **Λ** germination
