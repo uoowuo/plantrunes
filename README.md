@@ -20,11 +20,11 @@ Each symbol has a vertical bar, and on each bar there are 5 implied height point
 5. At the top of the bar
 
 These are 5 easily recognizable possible states for each of: water level, temperature and light level.
-The 6th rare highest state is represented by a double mark in 5th state.
+The 6th rare highest state is represented by a double mark in the 5th position.
 
 At these heights, the following marks are added, according to their values:
 
-**/** is water level in the water bottle:
+**/** is water level in the watering bottle:
 
 - **/** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0-100 mL
 - **//** &nbsp;&nbsp;&nbsp;&nbsp;100-200 mL
@@ -33,8 +33,9 @@ At these heights, the following marks are added, according to their values:
 - **/////** &nbsp;400-500 mL
 - **//////** 500+ mL
 
-Differences between water levels allow to visualize water leaking rate, which affects current soil dampness.
+Differences between water levels allow to visualize watering rate which affects soil moisture levels.
 
+---
 
 **\\** is temperature in degrees Celsius:
 
@@ -47,6 +48,7 @@ Differences between water levels allow to visualize water leaking rate, which af
 
 I assumed differences between temperatures below water freezing point don't matter to plants too much.
 
+---
 
 **o** is light level determined by sight:
 
@@ -57,6 +59,7 @@ I assumed differences between temperatures below water freezing point don't matt
 - **ooooo** &nbsp;&nbsp;Bright natural light OR low natural light + 24h bright artificial light
 - **oooooo** Bright natural light + 24h bright artificial light
 
+---
 
 Argricultural events are:
 
@@ -67,5 +70,7 @@ Argricultural events are:
 - **Π** illness
 - **□** death
 - **▯** sterilization
+
+---
 
 This gives over 2000 compound symbols describing various possible observations in a given jar on a given day.
