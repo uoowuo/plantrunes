@@ -14,7 +14,7 @@ Each day for every jar is represented by a compound symbol.
 Each symbol has a vertical bar, and on each bar there are 5 implied height points corresponding to different levels of indicated value:
 
 1. At the foot
-2. Between the foot and middle
+2. Between the foot and the middle
 3. At middle point
 4. Above middle point
 5. At the top of the bar
@@ -22,7 +22,7 @@ Each symbol has a vertical bar, and on each bar there are 5 implied height point
 These are 5 easily recognizable possible states for each of: water level, temperature and light level.
 The 6th rare highest state is represented by a double mark in the 5th position.
 
-At these heights, the following marks are added, according to their values:
+At these heights the following marks are added, according to their values:
 
 ---
 
@@ -75,4 +75,4 @@ Argricultural events are:
 
 ---
 
-This gives over 2000 compound symbols describing various possible observations in a given jar on a given day.
+This gives over 2000 compound symbols describing various possible observations for a given jar on a given day.
